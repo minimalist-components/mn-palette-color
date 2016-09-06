@@ -2,7 +2,7 @@
   "name": "mn-palette-color",
   "version": "0.0.1",
   "description": "A simple palette color, to define all colors of a project",
-  "main": "sources/styles/palette-color.scss",
+  "main": "sources/styles/mn-palette-color.scss",
   "authors": [
     "Darlan Mendonça <darlanmendonca@gmail.com>"
   ],
